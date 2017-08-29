@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <project name="Echoing-Moon/android_device_samsung_klimtwifi" path="device/samsung/klimtwifi" remote="github" revision="emos-8.0"/>
   <project name="Echoing-Moon/android_device_samsung_n1awifi" path="device/samsung/n1awifi" remote="github" revision="emos-8.0"/>
   <project name="Echoing-Moon/android_device_samsung_exynos5420-common" path="device/samsung/exynos5420-common" remote="github" revision="emos-8.0"/>
   <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" revision="lineage-15.0"/>
