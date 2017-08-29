@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="Echoing-Moon/android_device_samsung_n1awifi" path="device/samsung/n1awifi" remote="github" revision="emos-8.0"/>
+  <project name="Echoing-Moon/android_device_samsung_exynos5420-common" path="device/samsung/exynos5420-common" remote="github" revision="emos-8.0"/>
+  <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" revision="lineage-15.0"/>
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1"/>
+
+  <!-- Frameworks -->
+  <project name="Echoing-Moon/android_frameworks_native" path="frameworks/native" remote="github" revision="emos-8.0"/>
+  <project name="Echoing-Moon/android_frameworks_base" path="frameworks/base" remote="github" revision="emos-8.0"/>
+
+  <!-- Hardware -->
+  <project name="AOSPA/android_hardware_samsung" path="hardware/samsung" remote="github" revision="nougat-mr2"/>
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-14.1"/>
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-14.1"/>
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="github" revision="cm-14.1"/>
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1"/>
+
+  <!-- Bootanimation -->
+  <project path="vendor/google" name="AOSP-Exynos5420/android_vendor_google" remote="github" revision="n7.1"/>
+</manifest>
