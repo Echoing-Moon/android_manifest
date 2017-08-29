@@ -10,6 +10,9 @@
   <project name="Echoing-Moon/android_frameworks_native" path="frameworks/native" remote="github" revision="emos-8.0"/>
   <project name="Echoing-Moon/android_frameworks_base" path="frameworks/base" remote="github" revision="emos-8.0"/>
 
+  <!-- Packages -->
+  <project name="Echoing-Moon/android_packages_apps_settings" path="packages/apps/settings" remote="github" revision="emos-8.0"/>
+
   <!-- Hardware -->
   <project name="AOSPA/android_hardware_samsung" path="hardware/samsung" remote="github" revision="nougat-mr2"/>
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-14.1"/>
