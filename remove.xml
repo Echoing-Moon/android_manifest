@@ -4,4 +4,7 @@
 <remove-project name="platform/frameworks/base" />
 <remove-project name="platform/frameworks/native" />
 <remove-project name="platform/packages/apps/Settings" />
+<remove-project name="platform/build" />
+<remove-project name="platform/build/kati" />
+<remove-project name="platform/build/soong" />
 </manifest>

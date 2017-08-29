@@ -6,6 +6,11 @@
   <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" revision="lineage-15.0"/>
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1"/>
 
+  <!-- Build -->
+  <project name="Echoing-Moon/android_build_make" path="build/make" remote="github" revision="emos-8.0"/>
+  <project name="lineage-next/android_build_kati" path="build/kati" remote="github" revision="lineage-15.0"/>
+  <project name="lineage-next/android_build_soong" path="build/soong" remote="github" revision="lineage-15.0"/>
+
   <!-- Frameworks -->
   <project name="Echoing-Moon/android_frameworks_native" path="frameworks/native" remote="github" revision="emos-8.0"/>
   <project name="Echoing-Moon/android_frameworks_base" path="frameworks/base" remote="github" revision="emos-8.0"/>
