@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Device Support -->
   <project name="Echoing-Moon/android_device_samsung_klimtwifi" path="device/samsung/klimtwifi" remote="github" revision="emos-8.0"/>
   <project name="Echoing-Moon/android_device_samsung_n1awifi" path="device/samsung/n1awifi" remote="github" revision="emos-8.0"/>
   <project name="Echoing-Moon/android_device_samsung_exynos5420-common" path="device/samsung/exynos5420-common" remote="github" revision="emos-8.0"/>
@@ -39,4 +40,7 @@
 
   <!-- Bootanimation -->
   <project path="vendor/google" name="AOSP-Exynos5420/android_vendor_google" remote="github" revision="n7.1"/>
+
+  <!-- Misc -->
+  <project name="Echoing-Moon/android_bionic" path="bionic" remote="github" revision="emos-8.0"/>
 </manifest>
