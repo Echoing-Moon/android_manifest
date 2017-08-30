@@ -43,4 +43,7 @@
 
   <!-- Misc -->
   <project name="Echoing-Moon/android_bionic" path="bionic" remote="github" revision="emos-8.0"/>
+  <project name="Echoing-Moon/android_system_core" path="system/core" remote="github" revision="emos-8.0"/>
+  <project name="Echoing-Moon/android_system_sepolicy" path="system/sepolicy" remote="github" revision="emos-8.0"/>
+  <project name="Echoing-Moon/android_external_selinux" path="external/selinux" remote="github" revision="emos-8.0"/>
 </manifest>
